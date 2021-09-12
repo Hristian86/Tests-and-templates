@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Cards",
+    "\\src\\components\\ContextApi",
+    "\\src\\components\\Header",
+    "\\src\\Pages",
+    "\\src\\Pages\\Cahrts",
+    "\\src\\Pages\\Chat",
+    "\\src\\Pages\\Home"
+  ],
+  "SelectedNode": "\\src\\Pages\\Home\\Home.js",
+  "PreviewInSolutionExplorer": false
+}
